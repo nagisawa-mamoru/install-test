@@ -6,11 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "tsc -d"
   },
-  "main": "./dist/sample.js",
+  "main": "./dist/src/sample.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nagisawa-mamoru/install-test.git"
   },
+  
+  "files": [
+    "dist/src"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
