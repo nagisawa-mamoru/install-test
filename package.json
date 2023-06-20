@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/nagisawa-mamoru/install-test.git"
   },
+  "files": [
+    "dist/src",
+    "tsconfig.json"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
