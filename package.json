@@ -13,7 +13,7 @@
   },
   "files": [
     "dist/src",
-    "tsconfig.json"
+    "./tsconfig.json"
   ],
   "keywords": [],
   "author": "",
